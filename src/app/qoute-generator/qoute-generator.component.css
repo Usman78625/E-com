@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+    /* height: 60px; */
+    /* width: 300px; */
+    /* font-weight: 50px; */
+}
+.btn-success{
+    font-size: 35px;
+    border-radius: 20px solid green;
+}
